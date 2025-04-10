@@ -40,11 +40,12 @@
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/lucasuk31" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="25" height="25"/ >
+  <span>lucasuk31</span>
 </a>
   <br>
 <a href="https://instagram.com/lucasuk31" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="25" height="25"/>
-
+  <span>lucasuk31</span>
 </a>
 </p>
 
