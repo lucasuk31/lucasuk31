@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Santos</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucasuk31&color=yellow" alt="Profile views" /> </p>
 
-- 🚐 I’m currently working on Evri (as a delivery man)
+- 🚐 I’m currently working (as a delivery man)
   
 - 🎓 I’m currently studying at [Rocketseat](https://github.com/Rocketseat)
 
